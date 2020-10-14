@@ -1,0 +1,13 @@
+body {
+    font-family: "Shadows Into Light";
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+    background-color: lightgoldenrodyellow;
+
+}
+.burgerContent {
+    width: 100%;
+    max-width: 700px;
+    display: table;
+    margin: 5% auto 0;
+}
